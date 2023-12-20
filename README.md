@@ -1,2 +1,2 @@
 # -
-用于六分类问题 0正常-1讽刺-2落井下石-3受害者有罪论-4人身攻击-5无脑喷
+Fake comment sample library used for six classification problems: 0 normal -1 satire -2 falling into a well and falling into a rock -3 victim guilt theory -4 personal attack -5 brainless spray
